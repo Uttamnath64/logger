@@ -1,4 +1,4 @@
-module logger
+module github.com/Uttamnath64/logger
 
 go 1.22.2
 
